@@ -1,2 +1,2 @@
-# How Much Time Do You Have Left?
+# Life Remaining
 Calculates how much time a user has remaining to live. 
